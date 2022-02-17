@@ -5,7 +5,7 @@ Some tasks will have multiple solutions. The first solution is the best one in m
 To view tasks go to the *Task* branch, please.
 
 My contacts:
-[Telegram] (https://t.me/SPNikolay)
-[Vk] (https://vk.com/6opsh25)
-[Github] (https://github.com/NikBabukhin)
-[CodeWars] (https://www.codewars.com/users/NikBabukhin)
+[Telegram](https://t.me/SPNikolay)
+[Vk](https://vk.com/6opsh25)
+[Github](https://github.com/NikBabukhin)
+[CodeWars](https://www.codewars.com/users/NikBabukhin)
