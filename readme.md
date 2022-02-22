@@ -1,8 +1,6 @@
 *Hi!* This repo is made for CodeWars tasks.
 All completed tasks and descriptions for them are in their folders.
-Some tasks will have multiple solutions. The first solution is the best one in my opinion.
-
-To view tasks go to the *Task* branch, please.
+Some tasks will have multiple solutions. The first solution is the best one in my opinion.<br/>
 
 My contacts:<br/>
 [Telegram](https://t.me/SPNikolay)<br/>
